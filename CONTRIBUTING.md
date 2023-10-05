@@ -2,17 +2,15 @@
 
 1. Fork the repository: forking a repository creates a copy of the repository on your accoount. This allows you to freely experiment changes without affecting the main repository.
 
-![fork](https://github.com/praistarr/Hacktoberfest2023-Ekiti-DSN/assets/53593233/9f09425a-f873-4263-a0e5-160884d63d7a)
+![fork](https://github.com/praistarr/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/1b19cbfb-13d5-422c-83d5-43a4c7e66ca8)
 
 After clicking the fork button in the image above, you'll complete the forking process by clicking the create fork button
 
-![fork 1](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/241c5e54-3fa3-4a86-8ef1-507ff981214e)
-
+![fork 1](https://github.com/praistarr/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/66f60e64-7b23-4d8b-a9e1-e61c1f39cdf1)
 
 2. Create a branch of yours to make your contributions: creating a branch allows you to separate your changes from the main branch which can later be added to the main branch if there is no error or conflict. Else, discarded.
 
 ![add-my-details](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/fe69ade7-1142-4943-a805-239df52bc849)
-
 
 Input the name of your branch and then click "Create branch: branch-name" slightly below the branch name input area
 
