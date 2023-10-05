@@ -20,7 +20,8 @@ Consisting of 3 sub project folders:
 
 Select or create an issue you want to work on and it will be assigned to you.
 
-![HackToberFest 1](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/af0525d8-431a-4473-a5a9-abc1130ff164)
+![HackToberFest 1](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/09968dc6-ca20-486e-ac6b-29b69bdb8ff5)
+
 
 
 
