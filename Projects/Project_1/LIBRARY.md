@@ -28,3 +28,5 @@ To contribute, follow the template below
 ## <a name="data-science"> </a>Data Science
 
 - [Introduction to Data Science Specialization(IBM)](https://www.coursera.org/specializations/introduction-data-science)
+- [Machine Learning Specialization (Standford)](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Machine Learning A-Z™: AI, Python & R + ChatGPT (UDEMY)](https://www.udemy.com/course/machinelearning/)
