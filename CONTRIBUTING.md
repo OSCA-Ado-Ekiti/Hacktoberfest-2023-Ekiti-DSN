@@ -10,24 +10,24 @@ After clicking the fork button in the image above, you'll complete the forking p
 
 2. Create a branch of yours to make your contributions: creating a branch allows you to separate your changes from the main branch which can later be added to the main branch if there is no error or conflict. Else, discarded.
 
-![add-my-details](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/fe69ade7-1142-4943-a805-239df52bc849)
+![add-my-details](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/245fe293-23e6-4b59-b618-af56efef53ba)
 
 Input the name of your branch and then click "Create branch: branch-name" slightly below the branch name input area
 
 3. When you are done creating the branch, you can start making your contributions.
 
-![make changes](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/dbb719cb-6e2c-4882-8255-be67806be2e7)
-
+![make changes](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/a11c02e1-05f3-4b5b-97ce-157989c1e627)
 
 4. When you're done making your contribution, compare & pull request\
    
-![compare pull](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/08027eb6-c3ef-49a7-83b2-c5b3c8440190)
+![compare pull](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/49d05e11-fd87-4c4d-9846-ba6513b27c3f)
 
 
-5. Finally, send your pull request.
+6. Finally, send your pull request.
    You can also leave a comment to explain your contribution.\
-   
-![pull request](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/ea73dc5c-9730-4d5f-a116-b64002f5f5df)
+
+![ull request](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest-2023-Ekiti-DSN/assets/53593233/28364af7-8353-42db-b06e-adf5c7423cf5)
+
 
 
 # Send PR with git
