@@ -28,3 +28,13 @@ To contribute, follow the template below
 ## <a name="data-science"> </a>Data Science
 
 - [Introduction to Data Science Specialization(IBM)](https://www.coursera.org/specializations/introduction-data-science)
+
+- [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
+
+## <a name="r"> </a>R
+
+- [Datacamp Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
+
+- [Linkedin Getting Started With R For Data Science](https://www.linkedin.com/learning/paths/getting-started-with-r-for-data-science)
+
+
