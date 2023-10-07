@@ -29,6 +29,9 @@ To contribute, follow the template below
 
 - [Introduction to Data Science Specialization(IBM)](https://www.coursera.org/specializations/introduction-data-science)
 
+- [Machine Learning Specialization (Standford)](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Machine Learning A-Z™: AI, Python & R + ChatGPT (UDEMY)](https://www.udemy.com/course/machinelearning/)
+
 - [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
 
 ## <a name="r"> </a>R
@@ -36,5 +39,6 @@ To contribute, follow the template below
 - [Datacamp Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
 
 - [Linkedin Getting Started With R For Data Science](https://www.linkedin.com/learning/paths/getting-started-with-r-for-data-science)
+
 
 
