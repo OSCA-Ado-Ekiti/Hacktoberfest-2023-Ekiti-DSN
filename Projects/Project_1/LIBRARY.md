@@ -33,6 +33,7 @@ To contribute, follow the template below
 - [Machine Learning A-Z™: AI, Python & R + ChatGPT (UDEMY)](https://www.udemy.com/course/machinelearning/)
 
 - [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
+- [Introduction To Machine Learning (Kaggle)](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ## <a name="r"> </a>R
 
