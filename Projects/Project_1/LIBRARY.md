@@ -28,18 +28,22 @@ To contribute, follow the template below
 ## <a name="data-science"> </a>Data Science
 
 - [Introduction to Data Science Specialization(IBM)](https://www.coursera.org/specializations/introduction-data-science)
-
+- [Introduction To Machine Learning (Kaggle)](https://www.kaggle.com/learn/intro-to-machine-learning)
+  
 - [Machine Learning Specialization (Standford)](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Machine Learning A-Z™: AI, Python & R + ChatGPT (UDEMY)](https://www.udemy.com/course/machinelearning/)
 
 - [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
-- [Introduction To Machine Learning (Kaggle)](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Data visualization (kaggle)](https://www.kaggle.com/learn/data-visualization)
 
-## <a name="r"> </a>R
+## <a name="R"> </a>R
 
 - [Datacamp Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
 
 - [Linkedin Getting Started With R For Data Science](https://www.linkedin.com/learning/paths/getting-started-with-r-for-data-science)
 
+## <a name="ai"> </a>Artificial Intelligence
+- [Computer vision (kaggle)](https://www.kaggle.com/learn/computer-vision)
+- [Intro To Deep Learning(kaggle)](https://www.kaggle.com/learn/intro-to-deep-learning)
 
 
